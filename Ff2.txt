@@ -1,4 +1,3 @@
 ||facilicom.ru^
 ||facilicom.com^
-@@||facilicom.info^
 ||cleaner.facilicom.info^
